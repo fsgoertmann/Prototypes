@@ -1,0 +1,19 @@
+{
+    "components": {
+        "name": "Components",
+        "values": {
+            "panel": {
+                "name": "Panel",
+                "type": "panel"
+            },
+            "input": {
+                "name": "Input",
+                "type": "input"
+            },
+            "lookup": {
+                "name": "Lookup",
+                "type": "lookup"
+            }
+        }
+    }
+}
